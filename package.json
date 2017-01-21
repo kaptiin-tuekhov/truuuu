@@ -1,0 +1,15 @@
+{
+  "name": "true-vault",
+  "version": "1.0.0",
+  "description": "true vault api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita P",
+  "license": "ISC",
+  "dependencies": {
+    "fs-readfile-promise": "^3.0.0",
+    "request": "^2.79.0"
+  }
+}
